@@ -3,4 +3,6 @@
 
     Public cara As String
 
+    Public desarrollo
+
 End Class

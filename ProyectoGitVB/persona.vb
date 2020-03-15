@@ -2,6 +2,7 @@
     Public pelo As String
 
     Public cara As String
-    Dim vis
+    Dim vis As String
+
 
 End Class
